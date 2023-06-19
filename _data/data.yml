@@ -17,13 +17,13 @@ languages:
   - idiom: 
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: ensino medio proficionalisante de informatica
+    time: 2023-...
+    university: instituto federal do rio grande no norte em mossoró 
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: ensino fundamental 
+    time: 2013-2022
+    university: escola municipa prof. Manoel Assis 
 
 skills:
   - category: Backend
