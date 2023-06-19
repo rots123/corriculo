@@ -1,20 +1,20 @@
-name: John Doe
+name: Rodrigo Formiga 
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: rodrigodealmeidaformigalimaf@gmail.com
+  github: 
+  linkedin: 
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: português 
+  - idiom: 
+  - idiom: 
 
 education:
   - degree: MSc in Informatics
